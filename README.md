@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👨‍💻 Cédric Bouchard - Étudiant en Génie Logiciel 
 
 <!--
 **cedboutch/cedboutch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
